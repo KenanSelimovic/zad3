@@ -9,6 +9,7 @@ public class Main {
 	s.Ispisi();
 	s.pomjeriZa(-48);
 	s.Ispisi();
+
 	s.Postavi(0,0,0);
     }
 }
